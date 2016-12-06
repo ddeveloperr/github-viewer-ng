@@ -1,0 +1,12 @@
+/* Styles go here */
+
+body {
+  background: url(https://static1.squarespace.com/static/53de6047e4b0ec279261f44c/t/5505a906e4b02d4e9af0d8bb/1426434310273/webbackground.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 0px;
+  margin: 0px;
+  
+}
