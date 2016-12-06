@@ -1,6 +1,3 @@
-# github-viewer-project
-Github preglednik / Github viewer napravljen koristenjem AngularJS 
-
 #  GithubViewer Project
 
 This is simple project built it AngularJS 1.5.8 ver
